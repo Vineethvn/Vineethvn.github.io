@@ -12,7 +12,7 @@ bidmachine.io,466,DIRECT
 
 #Meta-Audience
 
-facebook.com,1746652396413258,RESELLER,c3e20eee3f780d68
+facebook.com,1746652396413258,DIRECT,c3e20eee3f780d68
 
 #Add other networks if applicable
 
